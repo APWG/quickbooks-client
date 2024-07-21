@@ -1,0 +1,20 @@
+End User License Agreement (EULA)
+Effective Date: [Date]
+
+This End User License Agreement ("EULA") governs your use of APWG's internal application ("the App"). By installing, copying, or otherwise using the App, you agree to be bound by the terms of this EULA. If you do not agree to these terms, do not install or use the App.
+
+License Grant: APWG grants you a limited, non-exclusive, non-transferable license to use the App solely for internal purposes within APWG.
+
+Restrictions: You may not sublicense, sell, distribute, lease, rent, lend, or otherwise transfer the App or any of its rights under this EULA to any third party. You may not reverse engineer, decompile, disassemble, or attempt to derive the source code of the App.
+
+Ownership: APWG retains all right, title, and interest in and to the App and all copies thereof. This EULA does not convey to you any rights of ownership in or related to the App, except for the limited license granted herein.
+
+Disclaimer of Warranty: The App is provided "as is" without warranty of any kind. APWG expressly disclaims all warranties, whether express, implied, statutory, or otherwise, including but not limited to any implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+Limitation of Liability: In no event shall APWG, its directors, officers, employees, or agents be liable to you or any third party for any indirect, incidental, special, consequential, or punitive damages arising out of or relating to your use of or inability to use the App, even if APWG has been advised of the possibility of such damages.
+
+Governing Law: This EULA shall be governed by and construed in accordance with the laws of United States, without regard to its conflict of law provisions.
+
+Entire Agreement: This EULA constitutes the entire agreement between you and APWG regarding the subject matter herein and supersedes all prior or contemporaneous understandings and agreements, whether written or oral, regarding such subject matter.
+
+Contact Us: If you have any questions about this EULA, please contact us at support@apwg.org.
