@@ -1,5 +1,5 @@
 End User License Agreement (EULA)
-Effective Date: [Date]
+Effective Date: 07/21/2024
 
 This End User License Agreement ("EULA") governs your use of APWG's internal application ("the App"). By installing, copying, or otherwise using the App, you agree to be bound by the terms of this EULA. If you do not agree to these terms, do not install or use the App.
 
